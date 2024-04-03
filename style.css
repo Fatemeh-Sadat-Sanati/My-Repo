@@ -40,7 +40,7 @@ a {
 .nav__cart{
     margin-right: 4rem;
 }
-.nav__avatar{
+div .nav__avatar{
     width: 15px;
     height: 15px;
 }
